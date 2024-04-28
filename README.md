@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node, Express, and MongoDB.**
 
-- ⚡ Fun fact **I once knew how to play the flute!**
+- ⚡ Fun fact **I did varsity track in high school!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
