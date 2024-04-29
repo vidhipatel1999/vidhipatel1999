@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhipatel1999&label=Profile%20views&color=0e75b6&style=flat" alt="vidhipatel1999" /> </p>
 
-- 🔭 I’m currently working on **a Bucket List application.**
+- 🔭 I’m currently working on **a Mealplanner application**
 
-- 🌱 I’m currently learning **Node, Express, and MongoDB.**
+- 🌱 I’m currently learning **Django**
 
 - ⚡ Fun fact **I did varsity track in high school!**
 
