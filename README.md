@@ -4,11 +4,9 @@
 <h1 align="center">Hi 👋, I'm Vidhi Patel</h1>
 <h3 align="center">A software engineer who thrives on the challenge of turning complex problems into simple, intuitive software experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhipatel1999&label=Profile%20views&color=0e75b6&style=flat" alt="vidhipatel1999" /> </p>
-
 - 🔭 I’m currently working on **a Mealplanner application**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I did varsity track in high school!**
 
